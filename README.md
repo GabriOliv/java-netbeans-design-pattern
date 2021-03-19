@@ -9,6 +9,8 @@ Design Pattern in Java (Netbeans IDE 8.2 RC)
 
 ---
 
+Steps to Install NetbeansIDE 8.2RC [HERE](https://gist.github.com/GabriOliv/edd9ab432fe774a696eb1cdc93608be0)
+
 | Design Pattern | Reference Source |
 | :----- | :----- |
 | Singleton | [Source](https://www.javatpoint.com/singleton-design-pattern-in-java) |
